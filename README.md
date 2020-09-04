@@ -1,5 +1,7 @@
 # How To Script a Discord Bot!
 
+This guide will show you how to create a dicord bot and will explain each step as you go.
+
 ## Getting Started
 
 

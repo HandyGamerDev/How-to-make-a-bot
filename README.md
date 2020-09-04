@@ -1,3 +1,5 @@
+# How To Script a Discord Bot!
+
 ## Getting Started
 
 
